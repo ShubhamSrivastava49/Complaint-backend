@@ -1,2 +1,3 @@
 # Complaint-backend
-Server Side  code base
+In the command line run npm install 
+Then run the command node server.js
